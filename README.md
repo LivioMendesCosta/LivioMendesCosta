@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## A new octodex every day:
+## Octodex for today 😎
 
-<img alt="octodex" src="https://octodex.github.com/images/goretocat.png"/>
+<img alt="octodex" src="https://octodex.github.com/images/goretocat.png" width="400px"/>
 
