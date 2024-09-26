@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ## A new octodex every day:
 
-<img alt="octodex" src="https://octodex.github.com/images/godotocat.png" width="400px"/>
+<img alt="octodex" src="https://octodex.github.com/images/father_timeout.jpg" width="400px"/>
 
