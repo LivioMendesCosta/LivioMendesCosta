@@ -2,9 +2,11 @@ name: Change Octodex in README.md
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:        
-  GitHub:
+  Change-Octodex:
     runs-on: ubuntu-latest
     permissions:
       contents: write
