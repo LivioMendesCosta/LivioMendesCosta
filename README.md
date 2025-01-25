@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 ## Octodex for today 😎
 
-<img alt="octodex" width="200px" src="https://octodex.github.com/images/homercat.png"/>
+<img alt="octodex" width="200px" src="https://octodex.github.com/images/topguntocat.png"/>
 
