@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 
 <img alt="octodex" width="200px" src="https://octodex.github.com/images/octdrey-catburn.jpg"/>
 
+## 📊 GitHub Activity
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=LivioMendesCosta&theme=dark&border_radius=20&hide_border=true)
