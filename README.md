@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LivioMendesCosta&theme=dark&border_radius=20&hide_border=true)
 
-## 📈 Contibution
+## 📈 Contributions (last 30 days)
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=LivioMendesCosta&theme=github-compact&hide_title=true&bg_color=111111&hide_border=true&days=30&radius=16)
