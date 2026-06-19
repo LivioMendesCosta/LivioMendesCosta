@@ -23,3 +23,7 @@ Here are some ideas to get you started:
 ## 📊 GitHub Activity
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LivioMendesCosta&theme=dark&border_radius=20&hide_border=true)
+
+## 📈 Contibution
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=LivioMendesCosta&theme=github-compact&hide_title=true&bg_color=111111&hide_border=true&days=30&radius=16)
