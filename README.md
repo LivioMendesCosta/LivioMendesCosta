@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Activity
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=LivioMendesCosta&theme=dark&border_radius=20&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=LivioMendesCosta&theme=dark&border_radius=20&hide_border=false)
 
 ## 📈 Contributions (last 30 days)
 
