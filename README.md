@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## Octodex for today 😎
 
-<img alt="octodex" width="200px" src="https://octodex.github.com/images/universetocat.png"/>
+<img alt="octodex" width="200px" src="https://octodex.github.com/images/octovets_FULL.png"/>
 
 ## 📊 GitHub Activity
 
